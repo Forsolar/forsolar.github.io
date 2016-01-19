@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   for solar power applications. The project was the recepient of the Total's Bourse Air prize 
   for technologically inovant ideas. 
 baseurl: "https://forsolar.github.io" # the subpath of your site, e.g. /blog/
-url: "http://localhost:4000" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
