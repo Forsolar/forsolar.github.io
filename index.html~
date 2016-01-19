@@ -35,7 +35,7 @@ layout: landing-page
 									<h2>Our stand-alone <strong>Forsolar-Pseries</strong> prototype integrates sensory and processing equipment. <p>All is fully automated.</p></h2>
 								</header>
 								<p>Pseries combines <strong>real-time monitoring</strong> of sensory data (high-resolution all-sky cloud imagery) and <strong>real-time processing</strong>. </p>
-<p>Forecastings and data accessible online in a <strong>secure</strong> username and password HTTPS protected webpage accessible via internet in any device (smartphone, tablet or PC).</p> 
+<p>Forecastings and data accessible online in a <strong>secure</strong> username and password HTTPS protected webpage accessible via internet in <strong>any device</strong> (smartphone, tablet or PC).</p> 
 <p>All data is uploaded to a <strong>cloud</strong>, for posterior access.</p> 
 									</ul>
 								<footer>
@@ -192,3 +192,4 @@ layout: landing-page
 				</footer>
 			
 			</section>
+
