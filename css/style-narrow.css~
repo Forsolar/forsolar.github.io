@@ -57,15 +57,8 @@
 /* Banner */
 
 	#banner {
-/* OLD CODE
 		background-size: 15em, 15em, auto, cover;
-*/
-	background: url("../images/banner.jpg") no-repeat center center fixed; 
-  		-webkit-background-size: cover;
-  		-moz-background-size: cover;
-  		-o-background-size: cover;
-  		background-size: cover;
-}
+	}
 
 /* Main */
 
