@@ -46,7 +46,15 @@
 /* Banner */
 
 	#banner {
+background: url("../images/banner.jpg") no-repeat center center fixed; 
+  		-webkit-background-size: cover;
+  		-moz-background-size: cover;
+  		-o-background-size: cover;
+  		background-size: cover;
+
+/*
 		background-attachment: scroll;
+*/
 	}
 
 /* CTA */
