@@ -180,7 +180,7 @@ layout: landing-page
 			<section id="cta">
 			
 				<header>
-					<h3><strong>Forecasting is very difficult, especially if it is about the future.</strong> </h3>
+					<h3><strong>Forecasting is very difficult, especially if it is about the future.</strong> <p>Niels Bohr</p></h3>
 				</header>
 				<footer>
 					<ul class="buttons">
